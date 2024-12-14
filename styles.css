@@ -29,6 +29,10 @@
     --text-color: #fdfdfd;
     --shadow-color: rgba(0, 0, 0, .7);
 }
+.masette{
+    width:250px;
+    height:250px;
+    border-radius:50%;
 
 html {
     font-size: 62.5%;
