@@ -30,9 +30,9 @@
     --shadow-color: rgba(0, 0, 0, .7);
 }
 .masette{
-    width:250px;
-    height:250px;
-    border-radius:50px;
+    width:150px;
+    height:150px;
+    border-radius:50%;
 }
 
 html {
